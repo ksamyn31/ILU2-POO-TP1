@@ -98,7 +98,7 @@ public class Etal {
 		 } catch (Exception e) {
 		        System.out.println("Une exception s'est produite : " + e.getMessage());
 		    }
-		    return null;
+		    return "";
 		}
 
 	public boolean contientProduit(String produit) {
